@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sowmiyashree14
-- 👀 I’m interested in application development
+- 👀 I’m interested in Application Development
 - 🌱 I’m currently learning Computer Science and Engineering bachelors
 - 📫 How to reach me in LinkedIn www.linkedin.com/in/sowmiya-shree-14102001
 
